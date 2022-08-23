@@ -133,7 +133,7 @@ nav ul li:hover {
 
 /* Footer */
 .main-footer {
-  position: fixed;
+  position: relative;
   bottom: 0;
   width: 100%;
   text-align: center;
@@ -337,7 +337,7 @@ form button {
 .contact-feats {
   display: flex;
   flex-direction: row;
-  margin-top: 260px;
+  margin-top: 253px;
   justify-content: space-evenly;
   background: #333;
   width: 100%;
